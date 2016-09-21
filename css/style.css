@@ -1,0 +1,54 @@
+body {
+	font-family: 'Poiret One', cursive;
+	color: white;
+	background-color: black;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+header {
+	position: relative;
+	text-align: right;
+}
+
+header h1 {
+	color: black;
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	padding-right: 5px;
+	font-weight: bold;
+	font-family: 'Questrial', sans-serif;
+}
+
+h2 {
+	font-family: 'Questrial', sans-serif;
+	font-size: 1.7em;
+}
+
+h4 {
+	font-family: 'Questrial', sans-serif;
+	font-size: 1.3em;
+}
+
+img {
+	max-width: 100%;
+}
+
+footer {
+	font-size: .8em;
+	text-align: center;
+}
+
+small {
+	font-family: 'Poiret One', cursive;
+}
+
+a {
+	color: white;
+}
+
+.subtitle {
+	font-size: .42em;
+}
